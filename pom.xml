@@ -18,6 +18,7 @@
 			<artifactId>vraptor</artifactId>
 			<version>4.0.0.Final</version>
 		</dependency>
+
 		<dependency>
 			<groupId>org.liquibase</groupId>
 			<artifactId>liquibase-core</artifactId>
